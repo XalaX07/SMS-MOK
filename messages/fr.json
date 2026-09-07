@@ -1,0 +1,224 @@
+{
+  "Metadata": {
+    "title": "SMS Solaire | Votre partenaire pour l'énergie solaire en Tunisie",
+    "ogTitle": "SMS Solaire",
+    "description": "Expertise en photovoltaïque et pompage solaire en Tunisie. Solutions résidentielles, industrielles et agricoles."
+  },
+  "Nav": {
+    "brand": "SMS Solaire",
+    "basseTension": "Basse Tension",
+    "moyenneTension": "Moyenne Tension",
+    "pompageSolaire": "Pompage Solaire",
+    "realisations": "Réalisations",
+    "simulateur": "Simulateur",
+    "contact": "Contact",
+    "toggleMenu": "Ouvrir/fermer le menu",
+    "language": "Langue"
+  },
+  "Footer": {
+    "copyright": "© 2024 SMS Solaire. Tous droits réservés. Expertise en Photovoltaïque & Pompage.",
+    "services": "Services",
+    "realisations": "Réalisations",
+    "devisSimulateur": "Simulateur de Devis",
+    "contactUs": "Contactez-nous",
+    "mentionsLegales": "Mentions Légales",
+    "politiqueConfidentialite": "Politique de Confidentialité"
+  },
+  "Hero": {
+    "badge": "Expertise Photovoltaïque",
+    "title": "Votre partenaire pour l'énergie solaire en Tunisie",
+    "description": "Des solutions d'ingénierie solaire fiables, rentables et durables pour les secteurs résidentiel, industriel et agricole.",
+    "ctaPrimary": "Demander un devis gratuit",
+    "ctaSecondary": "Simulateur de Devis"
+  },
+  "Services": {
+    "heading": "Nos Solutions d'Ingénierie",
+    "subheading": "Conçues pour maximiser la performance et minimiser l'empreinte énergétique.",
+    "learnMore": "En savoir plus",
+    "basseTension": {
+      "title": "Basse Tension",
+      "description": "Solutions solaires optimisées pour les habitations et les petites entreprises, garantissant une indépendance énergétique."
+    },
+    "moyenneTension": {
+      "title": "Moyenne Tension",
+      "description": "Installations industrielles haute capacité conçues pour réduire les coûts opérationnels et améliorer la durabilité."
+    },
+    "pompageSolaire": {
+      "title": "Pompage Solaire",
+      "description": "Systèmes d'irrigation alimentés par l'énergie solaire, idéaux pour le secteur agricole tunisien exigeant."
+    }
+  },
+  "Regional": {
+    "heading": "Expertise déployée au cœur de la Tunisie",
+    "description": "Forts d'une présence établie dans les régions clés, nous garantissons des interventions rapides et un suivi de proximité pour tous vos projets d'énergie solaire.",
+    "monastir": "Monastir",
+    "mahdia": "Mahdia",
+    "sousse": "Sousse",
+    "mapAlt": "Carte des zones d'intervention"
+  },
+  "Contact": {
+    "heading": "Contactez-nous",
+    "subheading": "Une question ? Un projet ? Remplissez le formulaire ci-dessous.",
+    "nameLabel": "Nom complet",
+    "namePlaceholder": "Jean Dupont",
+    "emailLabel": "Email",
+    "emailPlaceholder": "exemple@domaine.com",
+    "phoneLabel": "Téléphone",
+    "phonePlaceholder": "+216 XX XXX XXX",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Décrivez votre projet...",
+    "submit": "Envoyer",
+    "successTitle": "Message envoyé !",
+    "successMessage": "Nous vous recontacterons dans les plus brefs délais."
+  },
+  "BasseTensionPage": {
+    "metaTitle": "Basse Tension - SMS Solaire",
+    "metaDescription": "Solutions solaires basse tension pour habitations et petites entreprises en Tunisie.",
+    "title": "Basse Tension",
+    "description": "Solutions solaires optimisées pour les habitations et les petites entreprises, garantissant une indépendance énergétique. Nos installations basses tension sont conçues pour s'adapter à votre toiture et votre consommation.",
+    "features": [
+      "Installations de 3 à 10 kWc",
+      "Autoconsommation et revente de surplus",
+      "Monitoring en temps réel",
+      "Maintenance préventive incluse"
+    ],
+    "cta": "Demander un devis"
+  },
+  "MoyenneTensionPage": {
+    "metaTitle": "Moyenne Tension - SMS Solaire",
+    "metaDescription": "Installations solaires moyenne tension pour industriels et grandes structures en Tunisie.",
+    "title": "Moyenne Tension",
+    "description": "Installations industrielles haute capacité conçues pour réduire les coûts opérationnels et améliorer la durabilité. Nous maîtrisons les projets de grande envergure pour les usines, entrepôts et complexes industriels.",
+    "features": [
+      "Centrales de 100 kWc à plusieurs MWc",
+      "Optimisation du bilan énergétique",
+      "Intégration bâtiment et ombrières",
+      "Étude de rentabilité personnalisée"
+    ],
+    "cta": "Demander un devis"
+  },
+  "PompagePage": {
+    "metaTitle": "Pompage Solaire - SMS Solaire",
+    "metaDescription": "Solutions d'irrigation intelligente par pompage solaire pour l'agriculture tunisienne.",
+    "badge": "Solutions Agricoles - Sahel Tunisien",
+    "title": "L'Irrigation Intelligente par Pompage Solaire",
+    "description": "Optimisez vos rendements agricoles à Monastir, Mahdia et Sousse. Remplacez le diesel coûteux par une énergie propre, fiable et subventionnée.",
+    "cta": "Calculer mes économies",
+    "statLabel": "Jusqu'à",
+    "statValue": "-70% sur la facture d'eau"
+  },
+  "Benefits": {
+    "heading": "Pourquoi choisir le pompage solaire ?",
+    "subheading": "Une solution technique éprouvée, conçue pour les contraintes climatiques et économiques des agriculteurs tunisiens.",
+    "items": [
+      {
+        "title": "Énergie Gratuite & Propre",
+        "description": "Éliminez votre dépendance au gasoil ou au réseau électrique instable. Le soleil couvre vos besoins d'irrigation."
+      },
+      {
+        "title": "Subventions Étatiques",
+        "description": "Bénéficiez d'aides financières importantes (FNAAP, ANME) pour réduire considérablement votre investissement initial."
+      },
+      {
+        "title": "Fiabilité Technique",
+        "description": "Systèmes robustes avec variateurs de fréquence intelligents pour protéger la pompe et optimiser le débit d'eau."
+      }
+    ]
+  },
+  "RealisationsPage": {
+    "metaTitle": "Réalisations - SMS Solaire",
+    "metaDescription": "Découvrez nos projets d'installation photovoltaïque et de pompage solaire à travers la Tunisie.",
+    "heading": "Nos Réalisations",
+    "subheading": "Découvrez nos projets d'installation de panneaux photovoltaïques et de pompage solaire à travers la Tunisie."
+  },
+  "Gallery": {
+    "filterZone": "Filtrer par Zone",
+    "filterType": "Filtrer par Type",
+    "zones": {
+      "all": "Toutes",
+      "monastir": "Monastir",
+      "mahdia": "Mahdia",
+      "sousse": "Sousse"
+    },
+    "types": {
+      "all": "Tous",
+      "residentiel": "Résidentiel",
+      "industriel": "Industriel",
+      "agricole": "Agricole"
+    },
+    "beforeAfter": "Avant / Après",
+    "details": "Détails",
+    "noResults": "Aucun projet ne correspond aux filtres sélectionnés.",
+    "loadMore": "Charger Plus de Réalisations"
+  },
+  "Projects": {
+    "metricPower": "Puissance",
+    "metricFlow": "Débit J.",
+    "items": {
+      "1": {
+        "title": "Usine Textile S.A.",
+        "badge": "Industriel",
+        "description": "Installation d'une centrale photovoltaïque de 150 kWc pour réduire l'empreinte carbone et les coûts énergétiques de production."
+      },
+      "2": {
+        "title": "Villa Résidentielle Kantaoui",
+        "badge": "Residentiel",
+        "description": "Système raccordé au réseau de 5 kWc pour une autonomie énergétique optimisée d'une résidence familiale."
+      },
+      "3": {
+        "title": "Ferme Agricole El Jem",
+        "badge": "Agricole",
+        "description": "Station de pompage solaire au fil du soleil pour l'irrigation continue d'une exploitation oléicole de 20 hectares."
+      }
+    }
+  },
+  "Devis": {
+    "metaTitle": "Demande de Devis - SMS Solaire",
+    "metaDescription": "Simulateur de devis pour votre installation photovoltaïque en Tunisie.",
+    "title": "Simulateur de Devis",
+    "subtitle": "Obtenez une estimation précise pour votre installation photovoltaïque en 4 étapes simples.",
+    "step1": {
+      "heading": "Type d'installation",
+      "residentielLabel": "Résidentiel",
+      "residentielDesc": "Pour les maisons individuelles et appartements.",
+      "industrielLabel": "Industriel",
+      "industrielDesc": "Pour les usines, entrepôts et grands bâtiments.",
+      "agricoleLabel": "Agricole",
+      "agricoleDesc": "Pompage solaire et exploitations agricoles."
+    },
+    "step2": {
+      "heading": "Besoins et Consommation",
+      "surfaceLabel": "Surface disponible (approximative en m²)",
+      "surfacePlaceholder": "Ex: 50",
+      "factureLabel": "Facture mensuelle moyenne (TND)",
+      "facturePlaceholder": "Ex: 150",
+      "uploadText": "Télécharger votre dernière facture STEG (Optionnel mais recommandé pour plus de précision)",
+      "uploadButton": "Choisir un fichier"
+    },
+    "step3": {
+      "heading": "Localisation du projet",
+      "gouvernoratLabel": "Gouvernorat",
+      "gouvernoratPlaceholder": "Sélectionnez un gouvernorat",
+      "tunis": "Tunis",
+      "sfax": "Sfax",
+      "sousse": "Sousse",
+      "monastir": "Monastir",
+      "mahdia": "Mahdia",
+      "autres": "Autres..."
+    },
+    "step4": {
+      "heading": "Vos coordonnées",
+      "nameLabel": "Nom complet",
+      "namePlaceholder": "Jean Dupont",
+      "phoneLabel": "Numéro de téléphone",
+      "phonePlaceholder": "+216 XX XXX XXX",
+      "emailLabel": "Adresse Email",
+      "emailPlaceholder": "exemple@domaine.com"
+    },
+    "back": "Retour",
+    "next": "Suivant",
+    "submit": "Obtenir mon Devis",
+    "alertSelectType": "Veuillez sélectionner un type d'installation.",
+    "alertSubmitted": "Demande de devis envoyée ! (Mode démo - aucun backend connecté)"
+  }
+}

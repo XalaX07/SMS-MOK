@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Montserrat:wght@600;700&family=Noto+Kufi+Arabic:wght@400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-on-background font-inter antialiased;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-montserrat;
+  }
+
+  /* Arabic uses a dedicated web font for better legibility (Latin fonts
+     above don't cover Arabic glyphs well) and RTL text direction is
+     driven by the `dir` attribute set on <html> in the locale layout. */
+  html[lang="ar"] body,
+  html[lang="ar"] h1,
+  html[lang="ar"] h2,
+  html[lang="ar"] h3,
+  html[lang="ar"] h4,
+  html[lang="ar"] h5,
+  html[lang="ar"] h6 {
+    font-family: "Noto Kufi Arabic", "Inter", sans-serif;
+  }
+}
